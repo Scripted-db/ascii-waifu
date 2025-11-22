@@ -6,7 +6,7 @@
 
 ## Showcase
 
-<video src="readme-assets/showcase.mp4" controls width="45%"></video>
+<video src="https://raw.githubusercontent.com/Scripted-db/ascii-waifu/main/readme-assets/showcase.mp4" controls width="45%"></video>
 
 ## Prerequisites
 
