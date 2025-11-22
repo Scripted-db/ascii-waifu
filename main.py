@@ -46,8 +46,8 @@ def select_tags() -> dict:
 def select_height() -> int:
     """Ask for ASCII output height."""
     height = questionary.text(
-        "Enter ASCII height (default: 60, higher = more detail):",
-        default="60",
+        "Enter ASCII height (default: 40, higher = more detail):",
+        default="40",
         validate=lambda text: text.isdigit() or "Please enter a valid integer"
     ).ask()
     return int(height)
