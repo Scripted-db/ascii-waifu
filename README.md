@@ -5,8 +5,10 @@
 <sub>i dont know why i made this, boredom gets you places.</sub>
 
 ## Showcase
-
-<video src="./readme-assets/showcase.mp4" controls width="45%"></video>
+<div>
+   <img src="readme-assets/showcase.gif" alt="Showcase" width="75%">
+</div>
+<sub> no support for video, so you have to deal with this low-quality, low-framerate, gif </sub>
 
 ## Prerequisites
 
