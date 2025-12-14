@@ -5,6 +5,8 @@
 <sub>i dont know why i made this, boredom gets you places.</sub>
 
 ## Showcase
+
+Showcase GIF is of an older version, but the functionality remains the exact same
 <div>
    <img src="readme-assets/showcase.gif" alt="Showcase" width="75%">
 </div>
