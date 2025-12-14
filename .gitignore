@@ -4,21 +4,13 @@ __pycache__/
 *$py.class
 *.so
 .Python
-
-# Virtual environments
 venv/
 env/
-.venv/
 ENV/
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
+.venv
 
 # IDE
 .vscode/
-.cursor/
 .idea/
 *.swp
 *.swo
@@ -28,3 +20,6 @@ build/
 .DS_Store
 Thumbs.db
 
+# Project specific
+*.tmp
+temp_*
